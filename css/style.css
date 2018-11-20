@@ -287,6 +287,10 @@ section a {
   box-sizing: border-box;
 }
 
+.padbox {
+  padding: 0 10px 0;
+}
+
 /********** Details **********/
 
 #details {
