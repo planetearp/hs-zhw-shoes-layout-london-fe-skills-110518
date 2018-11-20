@@ -266,13 +266,13 @@ section a {
 }
 
 .large {
-  width: 66%;
+  width: 65%;
   float: left;
   
 }
 
 .med {
-  width: 33%;
+  width: 32%;
   float: left;
   margin-left: 10px;
 }
