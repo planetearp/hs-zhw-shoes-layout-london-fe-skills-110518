@@ -255,10 +255,6 @@ a.gplus:active { background-position: -80px -80px; }
 
 /********** Sections **********/
 
-.spacer {
-  box-sizing: border-box;
-}
-
 section {
   padding: 20px;
   background: white;
@@ -288,6 +284,7 @@ section a {
 
 .spacer {
   margin: 10px 0 10px;
+  box-sizing: border-box;
 }
 
 /********** Details **********/
