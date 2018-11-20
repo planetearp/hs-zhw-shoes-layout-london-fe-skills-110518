@@ -274,7 +274,7 @@ section a {
 .med {
   width: 33%;
   float: left;
-  
+  margin-left: 4px;
 }
 
 .small {
