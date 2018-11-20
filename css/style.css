@@ -287,8 +287,12 @@ section a {
   box-sizing: border-box;
 }
 
-.marginbox {
-  margin: 0 10px 0;
+.padright {
+  padding-right: 10px;
+}
+
+.padleft {
+  padding-left: 10px;
 }
 
 /********** Details **********/
